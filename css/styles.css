@@ -17,7 +17,7 @@ header {
     padding: 15px;
     color: white;
     text-align: center;
-    background-image: url('/imagenes/logo001.jpg');
+    background-image: url('imagenes/logo001.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -271,6 +271,7 @@ footer {
   .oculto {
     display: none !important;
   }
+
 
 
 
